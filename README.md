@@ -1,2 +1,2 @@
 # MyTodo
-MyTodo is Todo List for your Activity Build with Kotlin Compose + Material 3
+MyTodo is Todo List for your Activity Build with Kotlin Jetpack Compose + Material 3
